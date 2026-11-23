@@ -1,0 +1,6 @@
+{
+  "name": "Santo Tomas Audio Generator",
+  "description": "Estudio profesional de dirección vocal, narración humanizada y diálogos con IA para videos educativos, cuentos infantiles, documentales y contenido audiovisual.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
